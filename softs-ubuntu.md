@@ -51,20 +51,5 @@ sudo apt-get install build-essential linux-headers-`uname -r`
 sudo ./VMware-Workstation-Full-10.0.4-2249910.i386.bundle
 ```
 
-### Pentesting
-
-```
-sudo apt-get install nmap
-sudo apt-get install sqlmap
-sudo apt-get install nikto
-```
-
-- Metasploit
-- Nessus
-
-Github :
-
-- [SET Toolkit](https://github.com/trustedsec/social-engineer-toolkit)
-
 
 
