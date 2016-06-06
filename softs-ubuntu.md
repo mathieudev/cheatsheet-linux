@@ -23,26 +23,31 @@ sudo apt-get install gns3-gui
 
 ```
 sudo apt-get install guake
+sudo apt-get install terminator
+
 sudo apt-get install dropbox
 sudo apt-get install firefox
+
 sudo apt-get install libreoffice
-sudo apt-get install vlc
-sudo apt-get install shotwell
-sudo apt-get install gimp
-sudo apt-get install terminator
-sudo apt-get install deluge
 sudo apt-get install texstudio
+
+sudo apt-get install shotwell
+sudo apt-get install vlc
+sudo apt-get install deluge
+
 sudo apt-get install wireshark
+sudo apt-get install timeshift
+sudo apt-get install pidgin
 ```
 
 ### .deb
 
 - [Google Chrome](https://www.dropbox.com/fr/install?os=lnx)
 - [Sublim Text](http://www.sublimetext.com/3)
-- [GNS3]()
-
 
 ### Bundles
+
+#### VMWare
 
 VMWare come in an bundles files from this [link](http://www.vmware.com/fr/products/workstation/workstation-evaluation).
 
@@ -51,5 +56,5 @@ sudo apt-get install build-essential linux-headers-`uname -r`
 sudo ./VMware-Workstation-Full-10.0.4-2249910.i386.bundle
 ```
 
-
+#### Pycharm
 
