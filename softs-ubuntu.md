@@ -38,6 +38,8 @@ sudo apt-get install deluge
 sudo apt-get install wireshark
 sudo apt-get install timeshift
 sudo apt-get install pidgin
+
+sudo apt-get install tlp
 ```
 
 ### .deb
