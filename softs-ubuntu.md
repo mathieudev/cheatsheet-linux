@@ -1,5 +1,5 @@
 
-## Ubuntu 15.10 64 bits
+## Ubuntu 16.10 64 bits
 
 ### PPA
 
@@ -42,11 +42,6 @@ sudo apt-get install pidgin
 sudo apt-get install tlp
 ```
 
-### .deb
-
-- [Google Chrome](https://www.dropbox.com/fr/install?os=lnx)
-- [Sublim Text](http://www.sublimetext.com/3)
-
 ### Bundles
 
 #### VMWare
@@ -58,5 +53,13 @@ sudo apt-get install build-essential linux-headers-`uname -r`
 sudo ./VMware-Workstation-Full-10.0.4-2249910.i386.bundle
 ```
 
-#### Pycharm
+### Miscellanous
+
+- oh-my-zsh
+- owncloud
+- librevault
+- Google Chrome
+- Sublim Text
+- Playonlinux
+- Unlimited VPN
 
