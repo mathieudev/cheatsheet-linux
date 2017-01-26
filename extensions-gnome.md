@@ -4,7 +4,7 @@ Currently working on this version.
 
 ```
 # gnome-shell --version
-GNOME Shell 3.16.4
+GNOME Shell 3.18.5
 ```
 
 List of my favorites Gnome extensions :
@@ -20,5 +20,5 @@ List of my favorites Gnome extensions :
 - [Remove Dropdown Arrows](https://extensions.gnome.org/extension/800/remove-dropdown-arrows/)
 - [Services Systemd](https://extensions.gnome.org/extension/1034/services-systemd/)
 - [Show IP](https://extensions.gnome.org/extension/941/show-ip/) 
-- [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/)
+- [LAINE](https://extensions.gnome.org/extension/937/laine/)
