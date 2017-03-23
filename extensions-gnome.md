@@ -18,7 +18,7 @@ List of my favorites Gnome extensions :
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/)
 - [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/)
 - [Remove Dropdown Arrows](https://extensions.gnome.org/extension/800/remove-dropdown-arrows/)
-- [Services Systemd](https://extensions.gnome.org/extension/1034/services-systemd/)
+- [Services panel](https://extensions.gnome.org/extension/1063/services-panel/)
 - [Show IP](https://extensions.gnome.org/extension/941/show-ip/) 
 - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/)
 - [LAINE](https://extensions.gnome.org/extension/937/laine/)
